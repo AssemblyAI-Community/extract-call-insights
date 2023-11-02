@@ -16,14 +16,12 @@ You are a customer service professional. You are very competent and able to extr
 CONTEXT:
 This is a call from someone who is inquiring at a home building company
 INSTRUCTION:
-Answer the following question or respond to the following command: "Provide a short summary of the phone call, and list any outstanding action items after the summary. Finally, provide the caller's contact information. Do not include a preamble."
+Respond to the following command: "Provide a short summary of the phone call, and list any outstanding action items after the summary. Finally, provide the caller's contact information. Do not include a preamble."
 FORMAT:
 SUMMARY:
 a one or two sentence summary
-
 ACTION ITEMS:
-a bulleted list of action items
-
+a bulleted list of sufficiently detailed action items
 CONTACT INFORMATION:
 Name: Last name, first name
 Phone number: The caller's phone number
