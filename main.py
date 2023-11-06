@@ -28,8 +28,8 @@ Phone number: The caller's phone number
 """.strip()
 
 # Get the response
-r = transcript.lemur.task(prompt)
+result = transcript.lemur.task(prompt)
 
 # Extract the response text and print
-print(r.response.strip())
+print(result.response.strip())
 
